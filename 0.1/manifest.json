@@ -1,0 +1,37 @@
+{
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEArwWyHnncur5gLkbKpLA1QCbRHd/P+WLGbM1TZCOx04+J0u2Bp0cqYi8SzS5iR9QrlNRiArIqal1t6JHzrJWqVmREzQSHIh0pHn5JiTq/0GAz8Ffi13Fb/iB7ZrhkDVX7YPk5MOSDembXgvG52LQPGkGKLRFCfZzmRMFZ16zW2QDohXXmPJbYtsC3+RqkwkLqcxXv/URKXXoLP+6i5wDLvi4+gtHsv2s0/ErcqOTrquwdXWZX/73R1MRdulK7wJxPtgKJqWo1zfEBzBtR8rd+wfsEiW0X+ADtMA3UwSA9l8jmHuTfLZJSkENm8Rspvg0KXVP32hXl+OvXqUIBUrFdywIDAQAB",
+   "manifest_version": 2,
+   "name": "Monet's pond",
+   "theme": {
+      "colors": {
+         "bookmark_text": [ 255, 255, 255 ],
+         "frame": [ 0, 0, 0 ],
+         "ntp_background": [ 10, 17, 27 ],
+         "ntp_link": [ 255, 255, 255 ],
+         "ntp_section_link": [ 255, 255, 255 ],
+         "ntp_section_text": [ 10, 17, 27 ],
+         "ntp_text": [ 0, 0, 0 ],
+         "tab_background_text": [ 244, 239, 252 ],
+         "tab_text": [ 255, 255, 255 ],
+         "toolbar": [ 10, 17, 27 ]
+      },
+      "images": {
+         "theme_frame": "frame.png",
+         "theme_ntp_background": "bg.png",
+         "theme_tab_background": "tab_background.png",
+         "theme_toolbar": "tab.png"
+      },
+      "properties": {
+         "frame_alignment": "top",
+         "ntp_background_alignment": "bottom",
+         "ntp_background_repeat": "no-repeat",
+         "tab_background_alignment": "top",
+         "toolbar_alignment": "top"
+      },
+      "tints": {
+         "buttons": [ 0.7694, 0.3333, 0.96 ]
+      }
+   },
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "1.2"
+}
